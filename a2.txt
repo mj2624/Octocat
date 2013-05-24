@@ -1,0 +1,1 @@
+An upstream remote is something you create to make each branch in your local repository push to the corresponding file in the remote repository.  The upstream remote will ensure that each local branch pulls from the correct remote repository and that in future you will only have to do git push to ensure your information goes to the correct branch on the remote repository.
