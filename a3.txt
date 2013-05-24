@@ -1,0 +1,3 @@
+If you want to split a project or any other work into 2 or more separate parts you would make a branch.  if you wanted to view the history of different parts of your code separately you would create a branch.
+
+The branch is the point where your files split.  it is the point where one part of the project differs from another.   
