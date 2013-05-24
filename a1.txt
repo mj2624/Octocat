@@ -1,0 +1,1 @@
+A clone is a complete copy of remote repository which you make in your local repository.  The copy includes everything including all the files and history from the remote repository.  
